@@ -1,0 +1,7 @@
+1 - Created new model class Student.
+2 - Created  superuser [ name - kaushal, password - root1 ] for adding new Students .
+3 - Created admin class and perform registration of new model and added two new students.
+4 - for running the project go inside directory modelLearning1 through terimal and then run below command
+    python3 manage.py runserver
+5 - Displaying the registered user at http://localhost:8000/student/register/
+
